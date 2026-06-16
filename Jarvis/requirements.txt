@@ -1,9 +1,0 @@
-SpeechRecognition
-pyttsx3
-requests
-psutil
-pyautogui
-screen-brightness-control
-Pillow
-pywin32
-pyaudio
