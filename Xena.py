@@ -42,7 +42,7 @@ class AdvancedVoiceAssistant:
     def __init__(self, root):
         self.root = root
         self.root.title("Advanced Voice Assistant - Xena System")
-        self.root.geometry("1000x700")
+        self.root.geometry("1920x1080")
         self.root.configure(bg='#0a0a0a')
 
         # ── Speech engine ──────────────────────────────────────────────────
