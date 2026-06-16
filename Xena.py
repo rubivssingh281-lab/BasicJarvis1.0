@@ -1255,7 +1255,7 @@ class AdvancedVoiceAssistant:
             pass
         self.root.after(50, self._poll_llm_queue)
 
-# ─────────────────────────────────────────────────────────────────────────────
+# ──────────────────────Github Copilot Xena System (https://github.com/rubivssingh281-lab/Xena-AI-Assistant)──────────────
 if __name__ == "__main__":
     root = tk.Tk()
     app  = AdvancedVoiceAssistant(root)
